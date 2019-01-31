@@ -45,15 +45,24 @@ body{
     background-color: #8a2be2;
     height: 100px;
     width: 40px;
-    
+    display: inline-block;
 }
-/* #wide-boi{
+#wide-boi{
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 100px;
+    margin-left: 25px;
     margin-right: 20px;
     border: none;
     background-color: #228b22;
     height: 140px;
-    width: 250px;
-} */
+    width: 350px;
+    display: inline-block;
+}
+#round-boi{
+    height: 140px;
+    width: 140px;
+    margin-bottom: 5px;
+    border-radius: 50%;
+    background-color: skyblue;
+    display: inline-block;
+}
