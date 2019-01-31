@@ -1,0 +1,29 @@
+header{
+    background-color: #444444;
+    width: 100%;
+    height: 100px;
+    margin: none;
+    border: 0px;
+    padding: 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+body{
+    background-color: #d8d8d8;
+    border: red 10px;
+}
+.body-content{
+    background-color: #efefef;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 625px;
+    border: red 10px;
+}
+footer{
+    background-color: #222222;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 75px;
+    bottom: 0px;
+}
